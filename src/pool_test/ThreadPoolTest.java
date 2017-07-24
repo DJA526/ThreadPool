@@ -1,11 +1,8 @@
 package pool_test;
 
 import static org.junit.Assert.*;
-
 import java.util.Random;
-
 import org.junit.Test;
-
 import thread_pool.ThreadPool;
 
 public class ThreadPoolTest {
